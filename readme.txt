@@ -1,0 +1,1 @@
+Simple Giveaway management System
